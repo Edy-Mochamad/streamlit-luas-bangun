@@ -12,7 +12,6 @@ with st.sidebar :
     default_index = 0)
 
 #hitung luas persegi
-
 if (selected == 'Hitung Luas Persegi') :
     st.title('Hitung luas persegi')
 
