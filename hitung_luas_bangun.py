@@ -57,4 +57,3 @@ if (selected == 'Hitung Luas Segitiga') :
         st.write('Luas segitiga = ', luas)
         st.success(f'Perhitungan berhasil, hasilnya {luas}')
 
-
